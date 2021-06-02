@@ -1,0 +1,50 @@
+.banner{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("1.png") center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.banner2{
+    min-height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url("welcome.png") center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding-bottom: 20px;
+
+}
+.gradient{
+    background-image: var(--bs-gradient);
+}
+
+.bayangan{
+    box-shadow: 8px 8px 5px rgba(0, 0, 0, 0.30);
+  }
+.bayanganteks{
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.hehe{
+    min-height: 53vh;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), center/cover no-repeat;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+.rcorners1 {
+    border-radius: 25px;
+    padding: 20px;
+    }
+
+.putih{
+    background-color:rgb(194, 194, 194);
+}
